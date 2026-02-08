@@ -210,3 +210,4 @@ myenv2/
 __pycache__/
 *.pyc
 .env
+/proyecto.zip

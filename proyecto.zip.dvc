@@ -1,0 +1,5 @@
+outs:
+- md5: bc7a5d037f3412986bb123be57996381
+  size: 3048
+  hash: md5
+  path: proyecto.zip
